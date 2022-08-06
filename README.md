@@ -9,6 +9,6 @@
 
 - 1 hour taken to complete
 
-**Screenshot**
+Screenshot
 
-! [food-eats] (./screenshot/restaurant.png)
+! [Project 2] (./assets/screenshot/restaurant.png)

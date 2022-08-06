@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Red Rose", cursive;
+  font-family: "Red Rose", sans-serif;
 }
 
 body {
@@ -38,12 +38,13 @@ body {
   padding-left: 30px;
   color: #ffd000fa;
   cursor: pointer;
+  font-size: 1.3rem;
 }
 
 .button-small {
-  padding: 8px 15px;
+  padding: 10px 20px;
   border: none;
-  font-size: 1rem;
+  font-size: 1.5rem;
   background-color: #ff6263;
   color: #ffffff;
   margin-right: 4rem;
@@ -56,7 +57,7 @@ body {
 
 .hero-heading {
   font-family: "Red+Rose", sans-serif;
-  margin: 0 3rem;
+  margin: 0 14rem;
   color: #f7cd2e;
   font-weight: 700;
   font-size: 6.9rem;
@@ -68,16 +69,16 @@ body {
 .button-large {
   background-color: #ff6263;
   border: none;
-  padding: 1rem 2rem;
+  padding: 10px 2rem;
   color: #ffffff;
-  margin-left: 30rem;
-  margin-top: 3rem;
+  margin-left: 38rem;
+  margin-top: 5rem;
   font-size: 1.5rem;
   cursor: pointer;
 }
 
 .bottom img {
   position: relative;
-  left: 64rem;
-  bottom: 10rem;
+  left: 75rem;
+  bottom: 6rem;
 }
