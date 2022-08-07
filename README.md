@@ -1,4 +1,4 @@
-# Project 2
+# Project 2  [Live Link](https://full-stack-js-project-2.vercel.app)
 
 - Skill gained in this proect
   - Learnd how to add linear gradients on background image
