@@ -11,4 +11,4 @@
 
 Screenshot
 
-! [Project 2] (./assets/screenshot/restaurant.png)
+![Project 2](./screenshot/ineuron-eats.png)
